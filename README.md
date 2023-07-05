@@ -40,10 +40,14 @@ Before running the application, make sure you have the following installed:
    
 The API should now be accessible at http://localhost:8000.
 
-## Tech stack:
+## Tech stack
 
 <div>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"><br>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"><br>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div>
+
+## Contributing
+
+Contributions are welcome! If you find any issues or want to enhance the project, feel free to create a pull request.
